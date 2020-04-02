@@ -1,0 +1,29 @@
+.liberty-embed-upload {
+    background-color: #f6f6f6;
+    text-align: center;
+    padding: 22px;
+}
+.liberty-embed-upload p {
+    margin: 0 !important;
+}
+.liberty-embed-inputs {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.liberty-embed-inputs input[type="text"] {
+    border-radius: 0;
+    margin: 0;
+    min-width: 50%;
+}
+.liberty-embed-inputs button.is-primary {
+    background-color: #1989c1;
+    border-color: #1989c1;
+    color: #fff;
+    box-shadow: none;
+    border: none;
+    height: 31px;
+    padding: 3px 18px;
+    font-size: 14px;
+    cursor: pointer;
+}
